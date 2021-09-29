@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/CSC375_website/static/css/main.686b6495.chunk.css",
-    "main.js": "/CSC375_website/static/js/main.e42feb83.chunk.js",
-    "main.js.map": "/CSC375_website/static/js/main.e42feb83.chunk.js.map",
+    "main.js": "/CSC375_website/static/js/main.2f860ae2.chunk.js",
+    "main.js.map": "/CSC375_website/static/js/main.2f860ae2.chunk.js.map",
     "runtime-main.js": "/CSC375_website/static/js/runtime-main.aff6a2c1.js",
     "runtime-main.js.map": "/CSC375_website/static/js/runtime-main.aff6a2c1.js.map",
-    "static/js/2.7df14fa6.chunk.js": "/CSC375_website/static/js/2.7df14fa6.chunk.js",
-    "static/js/2.7df14fa6.chunk.js.map": "/CSC375_website/static/js/2.7df14fa6.chunk.js.map",
+    "static/js/2.31179198.chunk.js": "/CSC375_website/static/js/2.31179198.chunk.js",
+    "static/js/2.31179198.chunk.js.map": "/CSC375_website/static/js/2.31179198.chunk.js.map",
     "index.html": "/CSC375_website/index.html",
-    "precache-manifest.eba7c0789c5858ad0930a1214c539455.js": "/CSC375_website/precache-manifest.eba7c0789c5858ad0930a1214c539455.js",
+    "precache-manifest.1134034bb05bd3c1d621df4c9347e271.js": "/CSC375_website/precache-manifest.1134034bb05bd3c1d621df4c9347e271.js",
     "service-worker.js": "/CSC375_website/service-worker.js",
     "static/css/main.686b6495.chunk.css.map": "/CSC375_website/static/css/main.686b6495.chunk.css.map",
-    "static/js/2.7df14fa6.chunk.js.LICENSE.txt": "/CSC375_website/static/js/2.7df14fa6.chunk.js.LICENSE.txt",
+    "static/js/2.31179198.chunk.js.LICENSE.txt": "/CSC375_website/static/js/2.31179198.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/CSC375_website/static/media/illustration-section-02.63d0555d.svg",
     "static/media/features-split-image-01.png": "/CSC375_website/static/media/features-split-image-01.bc2294f9.png",
     "static/media/features-split-image-02.png": "/CSC375_website/static/media/features-split-image-02.6bc0c7ac.png",
     "static/media/initial-image.jpg": "/CSC375_website/static/media/initial-image.d54a74a9.jpg",
     "static/media/logo.svg": "/CSC375_website/static/media/logo.2810a88b.svg",
     "static/media/profile2.jpg": "/CSC375_website/static/media/profile2.0904db24.jpg",
+    "static/media/profile3.jpg": "/CSC375_website/static/media/profile3.6da0986e.jpg",
+    "static/media/profile5.jpg": "/CSC375_website/static/media/profile5.61443dfe.jpg",
     "static/media/profile6.jpg": "/CSC375_website/static/media/profile6.3ffc8494.jpg",
     "static/media/rfp.pdf": "/CSC375_website/static/media/rfp.d26aeea2.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.aff6a2c1.js",
-    "static/js/2.7df14fa6.chunk.js",
+    "static/js/2.31179198.chunk.js",
     "static/css/main.686b6495.chunk.css",
-    "static/js/main.e42feb83.chunk.js"
+    "static/js/main.2f860ae2.chunk.js"
   ]
 }
