@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CSC375_website/static/css/main.686b6495.chunk.css",
-    "main.js": "/CSC375_website/static/js/main.c62e4a93.chunk.js",
-    "main.js.map": "/CSC375_website/static/js/main.c62e4a93.chunk.js.map",
+    "main.js": "/CSC375_website/static/js/main.e42feb83.chunk.js",
+    "main.js.map": "/CSC375_website/static/js/main.e42feb83.chunk.js.map",
     "runtime-main.js": "/CSC375_website/static/js/runtime-main.aff6a2c1.js",
     "runtime-main.js.map": "/CSC375_website/static/js/runtime-main.aff6a2c1.js.map",
     "static/js/2.7df14fa6.chunk.js": "/CSC375_website/static/js/2.7df14fa6.chunk.js",
     "static/js/2.7df14fa6.chunk.js.map": "/CSC375_website/static/js/2.7df14fa6.chunk.js.map",
     "index.html": "/CSC375_website/index.html",
-    "precache-manifest.a7a7cbebc98720a5dc785cf988f88e14.js": "/CSC375_website/precache-manifest.a7a7cbebc98720a5dc785cf988f88e14.js",
+    "precache-manifest.eba7c0789c5858ad0930a1214c539455.js": "/CSC375_website/precache-manifest.eba7c0789c5858ad0930a1214c539455.js",
     "service-worker.js": "/CSC375_website/service-worker.js",
     "static/css/main.686b6495.chunk.css.map": "/CSC375_website/static/css/main.686b6495.chunk.css.map",
     "static/js/2.7df14fa6.chunk.js.LICENSE.txt": "/CSC375_website/static/js/2.7df14fa6.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.aff6a2c1.js",
     "static/js/2.7df14fa6.chunk.js",
     "static/css/main.686b6495.chunk.css",
-    "static/js/main.c62e4a93.chunk.js"
+    "static/js/main.e42feb83.chunk.js"
   ]
 }
