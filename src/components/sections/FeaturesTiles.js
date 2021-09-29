@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'VicTech - Who Are We?',
+    paragraph: 'VicTech is a software company that provides solutions to technology problems for small businesses. We specialize in solutions that require Machine Learning, Mobile App Development and Web Development. We were founded in 2021 September by students at the University of Victoria for CSC 375, and we are continuing to grow.'
   };
 
   return (
@@ -58,7 +58,7 @@ const FeaturesTiles = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={tilesClasses}>
 
-            <div className="tiles-item reveal-from-bottom">
+            {/* <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
@@ -188,7 +188,7 @@ const FeaturesTiles = ({
                     </p>
                 </div>
               </div>
-            </div>
+            </div> */}
 
           </div>
         </div>

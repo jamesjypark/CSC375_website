@@ -75,35 +75,12 @@ const Modal = ({
           onClick={handleClose}
         >
           <div className="modal-inner" onClick={stopProgagation}>
-            {video ?
-              <div className="responsive-video">
-                {videoTag === 'iframe' ?
-                  <iframe
-                    title="video"
-                    src={video}
-                    frameBorder="0"
-                    allowFullScreen
-                  ></iframe> :
-                  <video
-                    v-else
-                    controls
-                    src={video}
-                  ></video>
-                }
-              </div> :
-              <>
-                {!closeHidden &&
-                  <button
-                    className="modal-close"
-                    aria-label="close"
-                    onClick={handleClose}
-                  ></button>
-                }
-                <div className="modal-content">
-                  {children}
-                </div>
-              </>
-            }
+            <h4 className="mt-10 mb-8">
+              Disclaimer
+            </h4>
+            <p className="mb-10 text-sm">
+             This website is for a university class project, and its contents are for class purposes only. All references to existing corporations in any context are strictly hypothetical and have no real world implication.
+            </p>
           </div>
         </div>
       }

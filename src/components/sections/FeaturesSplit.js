@@ -50,9 +50,14 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Current Client Organization - NTASC Food Co.',
+    paragraph: 'Our client company, NTASC Food Co., is industry-leading software company that creates food recipe software. Currently, NTASC has a searchable database of recipes that specifies ingredients and directions, provided in both video and text methodologies, on its website. Moreover, the company aims to expand its recipes and platform to ease accessibility and welcome more audiences.'
   };
+
+  const projectHeader = {
+    title: 'Project Description',
+    paragraph: 'Executive Summary from the Project Charter'
+  }
 
   return (
     <section
@@ -63,17 +68,16 @@ const FeaturesSplit = ({
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={splitClasses}>
-
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Project Description
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Recipe Recommendation App
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                NTASC Food Company is aiming to expand its current recipe website into an accessible, easy to use mobile application. This application aims to allow users to enter in the contents of their home pantry and fridge, then the application’s search engine will suggest a list of recipes from NTASC’s extensive data base containing all, or a select few of those ingredients. 
                   </p>
               </div>
               <div className={
@@ -93,13 +97,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Project Goal
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Reduce Food Waste and Get Great Recipes
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                 Teamed with an expiration date tracking system, the main goal of this (synonym for application) is to reduce food waste across north America while simultaneously giving you a didactic meal choice for this evening.
                   </p>
               </div>
               <div className={
@@ -111,32 +115,6 @@ const FeaturesSplit = ({
                 <Image
                   src={require('./../../assets/images/features-split-image-02.png')}
                   alt="Features split 02"
-                  width={528}
-                  height={396} />
-              </div>
-            </div>
-
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
-                  </div>
-                <h3 className="mt-0 mb-12">
-                  Data-driven insights
-                  </h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
-              </div>
-              <div className={
-                classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
-                  imageFill && 'split-item-image-fill'
-                )}
-                data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
                   width={528}
                   height={396} />
               </div>
