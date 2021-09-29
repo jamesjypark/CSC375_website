@@ -62,7 +62,7 @@ const TeamIntro = ({}) => {
             <div className="features-tiles-item-header">
               <div className="features-tiles-item-image mb-16">
                 <Image
-                  src={require('./../../assets/images/profile1.jpg')}
+                  src={require('./../../assets/images/profile3.jpg')}
                   alt="Features tile icon 01"
                   width={150}
                   height={150} />
@@ -110,7 +110,7 @@ const TeamIntro = ({}) => {
             <div className="features-tiles-item-header">
               <div className="features-tiles-item-image mb-16">
                 <Image
-                  src={require('./../../assets/images/profile1.jpg')}
+                  src={require('./../../assets/images/profile5.jpg')}
                   alt="Features tile icon 01"
                   width={150}
                   height={150} />
