@@ -67,11 +67,15 @@ const FeaturesSplit = ({
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
+          
+          <h3 className="mt-0 mb-12">
+            Project Description
+          </h3>
           <div className={splitClasses}>
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Project Description
+                  Project Overview
                   </div>
                 <h3 className="mt-0 mb-12">
                   Recipe Recommendation App
