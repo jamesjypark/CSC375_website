@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ded8e3b17aef303427d2a2e599d0642b",
+    "revision": "cfde9b5694b6957d3b4fb4016a4e307b",
     "url": "/CSC375_website/index.html"
   },
   {
-    "revision": "299fd88841a86d7ac43b",
+    "revision": "e7279a9acd0445a09ca3",
     "url": "/CSC375_website/static/css/main.686b6495.chunk.css"
   },
   {
-    "revision": "83b2d54fb7129cba877d",
-    "url": "/CSC375_website/static/js/2.31179198.chunk.js"
+    "revision": "12996641cd55f03c006a",
+    "url": "/CSC375_website/static/js/2.d1658e65.chunk.js"
   },
   {
     "revision": "33834944fef3642f8d6e8eb1cb24e412",
-    "url": "/CSC375_website/static/js/2.31179198.chunk.js.LICENSE.txt"
+    "url": "/CSC375_website/static/js/2.d1658e65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "299fd88841a86d7ac43b",
-    "url": "/CSC375_website/static/js/main.c7a0eb2c.chunk.js"
+    "revision": "e7279a9acd0445a09ca3",
+    "url": "/CSC375_website/static/js/main.372b55ff.chunk.js"
   },
   {
     "revision": "55f44afbbe336925c6a2",
@@ -52,20 +52,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CSC375_website/static/media/logo.2810a88b.svg"
   },
   {
-    "revision": "0904db246538cbd1504034209756c23c",
-    "url": "/CSC375_website/static/media/profile2.0904db24.jpg"
+    "revision": "f190d4144e3b4208689232b71b25b4c5",
+    "url": "/CSC375_website/static/media/profile1.f190d414.jpg"
+  },
+  {
+    "revision": "f85d7ef39ea1fe06c505d1ea97951551",
+    "url": "/CSC375_website/static/media/profile2.f85d7ef3.jpg"
   },
   {
     "revision": "6da0986e13edffb292a13a225783db43",
     "url": "/CSC375_website/static/media/profile3.6da0986e.jpg"
   },
   {
+    "revision": "1e5502c56e0f16b0a62b397bc19d7971",
+    "url": "/CSC375_website/static/media/profile4.1e5502c5.jpg"
+  },
+  {
     "revision": "61443dfe5db4d5fbf009756b8e0fc8f5",
     "url": "/CSC375_website/static/media/profile5.61443dfe.jpg"
   },
   {
-    "revision": "3ffc8494bcd76cec53f0a79eb3a4b4f6",
-    "url": "/CSC375_website/static/media/profile6.3ffc8494.jpg"
+    "revision": "ba6495ef80df482e625a2a36f4b28356",
+    "url": "/CSC375_website/static/media/profile6.ba6495ef.jpg"
   },
   {
     "revision": "d26aeea251639acab5763a2a3e0c1782",
